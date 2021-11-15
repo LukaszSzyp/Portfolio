@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.65b9563f.chunk.css",
+    "main.js": "/static/js/main.f02a6b25.chunk.js",
+    "main.js.map": "/static/js/main.f02a6b25.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ab51f783.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ab51f783.js.map",
+    "static/js/2.dd9315a9.chunk.js": "/static/js/2.dd9315a9.chunk.js",
+    "static/js/2.dd9315a9.chunk.js.map": "/static/js/2.dd9315a9.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.65b9563f.chunk.css.map": "/static/css/main.65b9563f.chunk.css.map",
+    "static/js/2.dd9315a9.chunk.js.LICENSE.txt": "/static/js/2.dd9315a9.chunk.js.LICENSE.txt",
+    "static/media/1.trash.54bfe434.png": "/static/media/1.trash.54bfe434.png",
+    "static/media/2.ecoShopping.ee56abbb.png": "/static/media/2.ecoShopping.ee56abbb.png",
+    "static/media/3.clothes.7c753359.png": "/static/media/3.clothes.7c753359.png",
+    "static/media/4.transport.4bfb2ed0.png": "/static/media/4.transport.4bfb2ed0.png",
+    "static/media/5.bottle.2b6c8f8e.png": "/static/media/5.bottle.2b6c8f8e.png",
+    "static/media/6.home.f193a8d6.png": "/static/media/6.home.f193a8d6.png",
+    "static/media/7.plant.291dffcb.png": "/static/media/7.plant.291dffcb.png",
+    "static/media/8.yourEcoAction.8aabcb1f.png": "/static/media/8.yourEcoAction.8aabcb1f.png",
+    "static/media/9.ecoFood.d21a77cd.png": "/static/media/9.ecoFood.d21a77cd.png",
+    "static/media/leaf.26c7b3b8.png": "/static/media/leaf.26c7b3b8.png",
+    "static/media/leafIcon.7d3b7bde.png": "/static/media/leafIcon.7d3b7bde.png",
+    "static/media/leafIcon2.dbc03786.png": "/static/media/leafIcon2.dbc03786.png",
+    "static/media/leaf_silver.511d34e9.png": "/static/media/leaf_silver.511d34e9.png",
+    "static/media/logo-eco-friendly.680ea1a9.svg": "/static/media/logo-eco-friendly.680ea1a9.svg",
+    "static/media/style.scss": "/static/media/tree.15fef8c4.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ab51f783.js",
+    "static/js/2.dd9315a9.chunk.js",
+    "static/css/main.65b9563f.chunk.css",
+    "static/js/main.f02a6b25.chunk.js"
+  ]
+}
